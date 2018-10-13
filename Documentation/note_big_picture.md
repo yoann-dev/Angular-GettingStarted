@@ -37,7 +37,7 @@ La classe ```Titi``` nécessite la création d'une classe ```Type``` pour foncti
 
 ![One Way Data Flow](./zone.png)
 
--> très important pour la performance
+Ce module est très important pour l'aspect performance
 
 # Tooling
 * Angular CLI : 
