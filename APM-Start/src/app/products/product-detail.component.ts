@@ -12,6 +12,7 @@ export class ProductDetailComponent implements OnInit {
   pageTitle: string = 'Product Detail';
   product: IProduct;
 
+  // Constructeur
   constructor(private route: ActivatedRoute, private router: Router, private productService: ProductService) { 
   }
 
